@@ -1,0 +1,14 @@
+#clock{
+  font-size: 70px;
+  font-family: "Rubik Mono One", sans-serif;
+}
+table{
+  margin-left: 300px;
+  margin-top: 300px;
+  padding-left: 200px;
+}
+#message{
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
